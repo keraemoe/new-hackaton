@@ -1,0 +1,11 @@
+﻿body {
+  height: 93vh;
+}
+
+button {
+  margin-left: 10px;
+  background-color: blue;
+  padding: 10px;
+  border: none;
+  border-radius: 15%;
+}
